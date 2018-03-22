@@ -1,0 +1,13 @@
+site_name: Wii Shop Channel API Documentation
+theme:
+  name: 'material'
+pages:
+  - Home: index.md
+  - Exposed JS API:
+    - DL Tasks: jsAPI/dl_task.md
+    - Keyboard: jsAPI/keyboard.md
+    - Mii: jsAPI/mii.md
+    - NWC24: jsAPI/nwc24.md
+    - SD Card: jsAPI/sd_card.md
+    - Sound: jsAPI/sound.md
+    - Wii Shop: jsAPI/shop.md

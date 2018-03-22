@@ -1,0 +1,4 @@
+## Mii
+getMiiNum
+isValidIcon
+getMiiName

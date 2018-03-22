@@ -1,0 +1,11 @@
+# SD card
+checkValidSD
+isInserted
+isJournaling
+getFreeKBytes
+getSDBackupSize
+setJournalFlag
+backupToSDCard
+stopBackupToSDCard
+setCancelJournal
+hasProgressFinished
