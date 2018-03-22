@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the Open Shop Channel documentation\n\n\nWe'll be documenting protocols, APIs and other information throughout our journey to have the Wii download our Homebrew applications.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-the-open-shop-channel-documentation",
+            "text": "We'll be documenting protocols, APIs and other information throughout our journey to have the Wii download our Homebrew applications.",
+            "title": "Welcome to the Open Shop Channel documentation"
+        },
+        {
+            "location": "/jsAPI/dl_task/",
+            "text": "DL Tasks\n\n\naddDownloadTask\ndeleteDownloadTask\nhasDeletedDLTask",
+            "title": "DL Tasks"
+        },
+        {
+            "location": "/jsAPI/dl_task/#dl-tasks",
+            "text": "addDownloadTask\ndeleteDownloadTask\nhasDeletedDLTask",
+            "title": "DL Tasks"
+        },
+        {
+            "location": "/jsAPI/keyboard/",
+            "text": "Keyboard\n\n\nwiiKeyboard",
+            "title": "Keyboard"
+        },
+        {
+            "location": "/jsAPI/keyboard/#keyboard",
+            "text": "wiiKeyboard",
+            "title": "Keyboard"
+        },
+        {
+            "location": "/jsAPI/mii/",
+            "text": "Mii\n\n\ngetMiiNum\nisValidIcon\ngetMiiName",
+            "title": "Mii"
+        },
+        {
+            "location": "/jsAPI/mii/#mii",
+            "text": "getMiiNum\nisValidIcon\ngetMiiName",
+            "title": "Mii"
+        },
+        {
+            "location": "/jsAPI/nwc24/",
+            "text": "NWC24\n\n\n\n\ngetFriendNum\n: TODO\n\n\ngetFriendInfo\n: TODO\n\n\nsendGiftMailAsync\n: TODO\n\n\nsendReturnMailAsync\n: TODO\n\n\nsendNormalMailAsync\n: TODO\n\n\ndispError\n: TODO\n\n\ndoLeftBtn\n: TODO\n\n\ndoRightBtn\n: TODO\n\n\nmyUserId\n: TODO\n\n\nmailErrNo\n: TODO\n\n\nerrCodeWithLabel\n: TODO\n\n\nsendable\n: TODO\n\n\nrightBtn\n: TODO\n\n\nmiiImage\n: TODO",
+            "title": "NWC24"
+        },
+        {
+            "location": "/jsAPI/nwc24/#nwc24",
+            "text": "getFriendNum : TODO  getFriendInfo : TODO  sendGiftMailAsync : TODO  sendReturnMailAsync : TODO  sendNormalMailAsync : TODO  dispError : TODO  doLeftBtn : TODO  doRightBtn : TODO  myUserId : TODO  mailErrNo : TODO  errCodeWithLabel : TODO  sendable : TODO  rightBtn : TODO  miiImage : TODO",
+            "title": "NWC24"
+        },
+        {
+            "location": "/jsAPI/sd_card/",
+            "text": "SD card\n\n\ncheckValidSD\nisInserted\nisJournaling\ngetFreeKBytes\ngetSDBackupSize\nsetJournalFlag\nbackupToSDCard\nstopBackupToSDCard\nsetCancelJournal\nhasProgressFinished",
+            "title": "SD Card"
+        },
+        {
+            "location": "/jsAPI/sd_card/#sd-card",
+            "text": "checkValidSD\nisInserted\nisJournaling\ngetFreeKBytes\ngetSDBackupSize\nsetJournalFlag\nbackupToSDCard\nstopBackupToSDCard\nsetCancelJournal\nhasProgressFinished",
+            "title": "SD card"
+        },
+        {
+            "location": "/jsAPI/sound/",
+            "text": "Sound\n\n\nplayBGM\nplaySE\nWIPL_SE_BT_PUSH\nWIPL_SE_BT_TARGETTING\nWIPL_SE_DECIDE\nWIPL_SE_CANCEL\nWIPL_SE_CHOICE_CHG\nWIPL_SE_CHAR_DELETE_ERROR\nWIPL_SE_ADD_POINT\nWIPL_SE_COPY_FINISH\nWIPL_SE_MARIO_S_JUMP\nWIPL_SE_MARIO_L_JUMP\nWIPL_SE_FIRE_BALL\nWIPL_SE_COIN\nWIPL_SE_HIT_BLOCK\nWIPL_SE_MARIO_SWIM\nWIPL_SE_COPYING\nWIPL_SE_LOADING\nWIPL_BGM_SHOP",
+            "title": "Sound"
+        },
+        {
+            "location": "/jsAPI/sound/#sound",
+            "text": "playBGM\nplaySE\nWIPL_SE_BT_PUSH\nWIPL_SE_BT_TARGETTING\nWIPL_SE_DECIDE\nWIPL_SE_CANCEL\nWIPL_SE_CHOICE_CHG\nWIPL_SE_CHAR_DELETE_ERROR\nWIPL_SE_ADD_POINT\nWIPL_SE_COPY_FINISH\nWIPL_SE_MARIO_S_JUMP\nWIPL_SE_MARIO_L_JUMP\nWIPL_SE_FIRE_BALL\nWIPL_SE_COIN\nWIPL_SE_HIT_BLOCK\nWIPL_SE_MARIO_SWIM\nWIPL_SE_COPYING\nWIPL_SE_LOADING\nWIPL_BGM_SHOP",
+            "title": "Sound"
+        },
+        {
+            "location": "/jsAPI/shop/",
+            "text": "returnToUpdate\nrebootSystem\nreturnToMenu\njumpToEULAViewer\njumpToManualChannel\nbeginWaiting\nendWaiting\nsetWallpaper\ndisableHRP\nenableHRP\ncloseManual\nretryBtn\nwiiUMenuBtn\nmanualChannelBtn\nconnecting\njumpDataMng\nsetSCARank\nisCompatibleMode\nlaunchCode\ngetLogUrl\nfadeColor",
+            "title": "Wii Shop"
+        }
+    ]
+}
